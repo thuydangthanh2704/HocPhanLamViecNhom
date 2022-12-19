@@ -17,7 +17,7 @@ namespace KhaiBaoYTe
             InitializeComponent();
         }
 
-        public string HoTen;
+        public string HoTen;nè he
         public string CMND;
         public string NamSinh;
         public string GioiTinh;
